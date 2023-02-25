@@ -7,7 +7,17 @@ This is going to be a memory game that has 4X4
 I decided to make a Memory Game as I use to play them all the time.   A game like these should will help me improve my HTLM, CSS, JS skills
 for fuutre project.
 
+## FRAME
 
+### Beginning of the game
+![image](https://user-images.githubusercontent.com/122843130/221380542-46bea209-ef13-4f0a-a237-6be9fa9c7f03.png)
+
+### While playing the game
+![image](https://user-images.githubusercontent.com/122843130/221380682-0274342b-42ed-4592-9f72-e8e92cd3a222.png)
+
+### END
+
+![image](https://user-images.githubusercontent.com/122843130/221380785-b5d9aa2c-c584-4e41-87f1-de649ffb27fa.png)
 
 
 ## USER EXPERINCE
@@ -15,12 +25,13 @@ for fuutre project.
 ### MVP GOALS
 
 1. As a Player, I should be able to choose any card to flip.
-2. As a Player, The game  should wait till the 2nd card choosen card is selected.
-3. As a Player, If the cards do not match, then both card should flip back.
-4. As a Player,If both card matches, then the cards should remain as is.
+2. As a Player, the game should not flib my card back till I choose another one.
+3. As a Player, if the cards that I choose do not match,then both card should flip back.
+4. As a Player, if the cards that I choose do matches, then the cards should remain as is.
 5. As a Player, I should be able to choose a new cards now.
-6. As a Player, Once all the cards are found, The game should display "YOU WON"
-7. As a Player,
+6. As a Player, Once all the cards are found, the game should display "YOU WON"
+7. As a Player, I should have a way to reset the game
+8  As a Player, I only have 16 tries to win the game
 
 
 
@@ -29,4 +40,4 @@ for fuutre project.
 2.  To able to add animation/sound if the cards are incorrect
 3.  To give a score based on time and amount of "clicks done"
 4.  Do a flip animation rahter than a toogle one. 
-5. Size of the board 
+5.  Size of the board( 6X6, 8X8, etc...)
