@@ -15,7 +15,7 @@ for fuutre project.
 ### MVP GOALS
 
 1. As a Player, I should be able to choose any card to flip.
-2.  Once the chhosen card is selected by PLAYER, it should wait till the 2nd card is flip.
+2.  The game  should wait till the 2nd card choosen card is selected.
 3.  If the cards do not match, then both card should flip back.
 4.  If both card matches, then the cards should remain as is.
 5. As a Player, I should be able to choose a new cards now.
@@ -25,5 +25,6 @@ for fuutre project.
 
 ## Strech Goals
 1.  Have a time limit on the game
-2.  To able to add animation if both cards are the same.
+2.  To able to add animation/sound if the cards are incorrect
 3.  To give a score based on time and amount of "clicks done"
+4.  Do a flip animation rahter than a toogle one. 
