@@ -30,8 +30,8 @@ for the future project.
 4. As a Player, if the cards I choose match the previous card, then the cards should remain as is.
 5. As a Player, I should be able to choose a new card now.
 6. As a Player, Once all the cards are found, the game should display "YOU WON."
-7. As a Player, I should have a way to reset the game
-8  As a Player, I only have 16 tries to win the game
+7. As a Player, I should have a way to reset the game.
+8  As a Player, I only have 16 tries to win the game.
 
 
 
