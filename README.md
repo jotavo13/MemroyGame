@@ -4,8 +4,8 @@
 This is going to be a memory game that has 4X4
 
 ## Memory Game
-I decided to make a Memory Game as I use to play them all the time.   A game like these should will help me improve my HTLM, CSS, JS skills
-for fuutre project.
+I decided to make a Memory Game as I used to play them all the time.   A game like this should help improve my HTML, CSS, and JS skills
+for the future project.
 
 ## FRAME
 
@@ -20,24 +20,25 @@ for fuutre project.
 ![image](https://user-images.githubusercontent.com/122843130/221380785-b5d9aa2c-c584-4e41-87f1-de649ffb27fa.png)
 
 
-## USER EXPERINCE
+## USER EXPERIENCE
 
 ### MVP GOALS
 
 1. As a Player, I should be able to choose any card to flip.
-2. As a Player, the game should not flib my card back till I choose another one.
-3. As a Player, if the cards that I choose do not match,then both card should flip back.
-4. As a Player, if the cards that I choose do matches, then the cards should remain as is.
-5. As a Player, I should be able to choose a new cards now.
-6. As a Player, Once all the cards are found, the game should display "YOU WON"
+2. As a Player, the game should only flip my card back once I choose another one.
+3. As a Player, if I choose another card and they do not match, then both cards should flip back.
+4. As a Player, if the cards I choose match the previous card, then the cards should remain as is.
+5. As a Player, I should be able to choose a new card now.
+6. As a Player, Once all the cards are found, the game should display "YOU WON."
 7. As a Player, I should have a way to reset the game
 8  As a Player, I only have 16 tries to win the game
 
 
 
 ## Strech Goals
-1.  Have a time limit on the game
-2.  To able to add animation/sound if the cards are incorrect
-3.  To give a score based on time and amount of "clicks done"
-4.  Do a flip animation rahter than a toogle one. 
+1. Have a time limit on the game
+2. To able to add animation/sound if the cards are incorrect
+3. To give a score based on time and amount of "clicks done."
+4. Do a flip animation rather than a toggle one. 
 5.  Size of the board( 6X6, 8X8, etc...)
+
