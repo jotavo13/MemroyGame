@@ -15,11 +15,12 @@ for fuutre project.
 ### MVP GOALS
 
 1. As a Player, I should be able to choose any card to flip.
-2.  The game  should wait till the 2nd card choosen card is selected.
-3.  If the cards do not match, then both card should flip back.
-4.  If both card matches, then the cards should remain as is.
+2. As a Player, The game  should wait till the 2nd card choosen card is selected.
+3. As a Player, If the cards do not match, then both card should flip back.
+4. As a Player,If both card matches, then the cards should remain as is.
 5. As a Player, I should be able to choose a new cards now.
-6. Once all the cards are found, The game should display "YOU WON"
+6. As a Player, Once all the cards are found, The game should display "YOU WON"
+7. As a Player,
 
 
 
@@ -28,3 +29,4 @@ for fuutre project.
 2.  To able to add animation/sound if the cards are incorrect
 3.  To give a score based on time and amount of "clicks done"
 4.  Do a flip animation rahter than a toogle one. 
+5. Size of the board 
